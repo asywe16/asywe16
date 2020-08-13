@@ -1,9 +1,5 @@
 # Hi, I'm Amy 👋
 
-### Currently listening to :notes:
-<img src="https://i.scdn.co/image/ab67616d0000b273d26246b23c8bfa8ce543b3bb" alt="Song image" width="125px" height="125px">
-
-**Stitches** by **Shawn Mendes**
 
 <!--
 **asywe16/asywe16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

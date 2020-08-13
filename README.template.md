@@ -1,7 +1,8 @@
-### Hi, I'm Amy 👋
+# Hi, I'm Amy 👋
 
-# Currently listening to :notes:
-![Song image]({sp_image})
+### :notes: Currently listening to:
+<img src={sp_img} alt="Song image" width="125px" height="125px">
+
 **{sp_name}** {sp_artist}
 
 <!--
