@@ -1,8 +1,8 @@
 ### Hi, I'm Amy 👋
 
 # Currently listening to :notes:
-![Song image](https://i.scdn.co/image/ab67616d0000b273d26246b23c8bfa8ce543b3bb)
-**Stitches** by **Shawn Mendes**
+![Song image]({sp_image})
+**{sp_name}** {sp_artist}
 
 <!--
 **asywe16/asywe16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
