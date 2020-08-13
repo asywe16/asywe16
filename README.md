@@ -1,7 +1,7 @@
-### Hi, I'm Amy 👋
+# Hi, I'm Amy 👋
 
-# Currently listening to :notes:
-![Song image](https://i.scdn.co/image/ab67616d0000b273d26246b23c8bfa8ce543b3bb)
+### Currently listening to :notes:
+![Song image](https://i.scdn.co/image/ab67616d0000b273d26246b23c8bfa8ce543b3bb =250x250)
 **Stitches** by **Shawn Mendes**
 
 <!--
