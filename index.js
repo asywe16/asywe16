@@ -48,12 +48,13 @@ async function main() {
             artist_list += json_artists[i].name + ", ";
         }
         artist_list = artist_list.slice(0, -2);     // remove last ", "
-        artist_list = "by **" + artist_list + "**"; // add on by and ** for bold for README formatting
+        //artist_list = "by **" + artist_list + "**"; // add on by and ** for bold for README formatting
 
         const readme = readmeTemplate
-            .replace("{sp_image}", curr_track.item.album.images[0].url)
+            .replace("{sp_img}", curr_track.item.album.images[0].url)
             .replace("{sp_name}", curr_track.item.name)
-            .replace("{sp_artist}", artist_list);
+            .replace("{sp_artist}", artist_list)
+            .replace("{sp_link}", curr_track.item.external_urls.spotify);
 
         fs.writeFile("README.md", readme);
     })
@@ -61,9 +62,10 @@ async function main() {
         console.log("No response");
 
         const readme = readmeTemplate
-            .replace("{sp_image}", "./gray_sq.jpg")
+            .replace("{sp_img}", "./gray_sq.jpg")
             .replace("{sp_name}", "Nothing playing right now...")
-            .replace("{sp_artist}", "");
+            .replace("{sp_artist}", "")
+            .replace("{sp_link}", "");
 
         fs.writeFile("README.md", readme);
     });
