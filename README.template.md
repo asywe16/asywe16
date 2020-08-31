@@ -10,8 +10,8 @@ Need more Korean R&B in your life? Check out what I'm currently listening to!
             </a>
         </td>
         <td>
-            <p>{sp_name}</p>
-            <p>{sp_artist}</p>
+            <b style="font-size:20px;margin:5px">{sp_name}</b>
+            <p style="font-size:18px;margin:5px">{sp_artist}</p>
         </td>
     </tr>
 </table>

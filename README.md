@@ -10,8 +10,8 @@ Need more Korean R&B in your life? Check out what I'm currently listening to!
             </a>
         </td>
         <td>
-            <p>From Midnight To Sunrise</p>
-            <p>Crush</p>
+            <b style="font-size:20px;margin:5px">From Midnight To Sunrise</b>
+            <p style="font-size:18px;margin:5px">Crush</p>
         </td>
     </tr>
 </table>
