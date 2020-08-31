@@ -5,7 +5,7 @@ I'm a junior studying Computer Science at UCLA!
 If I'm not coding, I'm probably playing volleyball or listening to Korean R&B!
 Check out what I'm currently listening to :notes:
 
-<table style="border-spacing:15px">
+<table style="border-spacing:15px;border:0px">
     <tr>
         <td>
             <a href={sp_link}>
@@ -22,15 +22,7 @@ Check out what I'm currently listening to :notes:
 
 Always looking to connect with ~~other volleyball players or other Crush fans~~ fellow programmers!
 
-<!-->
-### :notes: Currently listening to:
-<a href={sp_link}>
-    <img src={sp_img} alt="Song image" width="125px" height="125px">
-</a>
-
-**{sp_name}** {sp_artist}
-
-
+<!--
 **asywe16/asywe16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
