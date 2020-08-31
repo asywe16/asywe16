@@ -4,12 +4,12 @@ Need more Korean R&B in your life? Check out what I'm currently listening to!
 
 <table style="border-spacing:15px;border:0px">
     <tr>
-        <td>
+        <td style="border:none">
             <a href={sp_link}>
                 <img src={sp_img} alt="Song image" width="100px" height="100px">
             </a>
         </td>
-        <td>
+        <td style="border:none">
             <b style="font-size:20px;margin:5px">{sp_name}</b>
             <p style="font-size:18px;margin:5px">{sp_artist}</p>
         </td>

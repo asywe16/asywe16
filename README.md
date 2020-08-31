@@ -4,14 +4,14 @@ Need more Korean R&B in your life? Check out what I'm currently listening to!
 
 <table style="border-spacing:15px;border:0px">
     <tr>
-        <td>
-            <a href=https://open.spotify.com/track/4FNuxqo1l5v5ILy9w4XdWk>
-                <img src=https://i.scdn.co/image/ab67616d0000b273a87702a694236af32a3cc23e alt="Song image" width="100px" height="100px">
+        <td style="border:none">
+            <a href=https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux>
+                <img src=https://i.scdn.co/image/ab67616d0000b2733138f891f3075c9c5d944037 alt="Song image" width="100px" height="100px">
             </a>
         </td>
-        <td>
-            <b style="font-size:20px;margin:5px">From Midnight To Sunrise</b>
-            <p style="font-size:18px;margin:5px">Crush</p>
+        <td style="border:none">
+            <b style="font-size:20px;margin:5px">Best Part (feat. H.E.R.)</b>
+            <p style="font-size:18px;margin:5px">Daniel Caesar, H.E.R.</p>
         </td>
     </tr>
 </table>
