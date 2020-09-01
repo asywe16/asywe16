@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href=https://open.spotify.com/track/1tomnO1kH2hXSa8kIRg0YM>
-                <img src=https://i.scdn.co/image/ab67616d0000b273390ff159a6e77d2f267c415b alt="Song image" width="100px" height="100px">
+            <a href=https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR>
+                <img src=https://i.scdn.co/image/ab67616d0000b273f54a315f1d2445791fe601a7 alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Firefly</b>
-            <p style="font-size:18px;margin:5px">SonaOne</p>
+            <b style="font-size:20px;margin:5px">Underneath the Tree</b>
+            <p style="font-size:18px;margin:5px">Kelly Clarkson</p>
         </td>
     </tr>
 </table>
