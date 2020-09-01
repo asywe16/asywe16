@@ -1,17 +1,17 @@
 # Hi, I'm Amy :watermelon:
 
-Need more Korean R&B in your life? Check out what I'm currently listening to!
+In need of music suggestions? Check out what I'm currently listening to!
 
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href=https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux>
-                <img src=https://i.scdn.co/image/ab67616d0000b2733138f891f3075c9c5d944037 alt="Song image" width="100px" height="100px">
+            <a href=https://open.spotify.com/track/3MVFfBRX8EQi1fuGNf3ZiW>
+                <img src=https://i.scdn.co/image/ab67616d0000b273c77f060abcf432fa823fdb54 alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Best Part (feat. H.E.R.)</b>
-            <p style="font-size:18px;margin:5px">Daniel Caesar, H.E.R.</p>
+            <h3 style="font-size:20px;margin:5px">Love Like Oxygen</h3>
+            <p style="font-size:18px;margin:5px">SHINee</p>
         </td>
     </tr>
 </table>

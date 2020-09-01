@@ -1,6 +1,6 @@
 # Hi, I'm Amy :watermelon:
 
-Need more Korean R&B in your life? Check out what I'm currently listening to!
+In need of music suggestions? Check out what I'm currently listening to!
 
 <table style="border-spacing:15px;border:0px">
     <tr>
@@ -10,7 +10,7 @@ Need more Korean R&B in your life? Check out what I'm currently listening to!
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">{sp_name}</b>
+            <h3 style="font-size:20px;margin:5px">{sp_name}</h3>
             <p style="font-size:18px;margin:5px">{sp_artist}</p>
         </td>
     </tr>
