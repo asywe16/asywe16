@@ -10,7 +10,7 @@ In need of music suggestions? Check out what I'm currently listening to!
             </a>
         </td>
         <td style="border:none">
-            <h3 style="font-size:20px;margin:5px">{sp_name}</h3>
+            <b style="font-size:20px;margin:5px">{sp_name}</b>
             <p style="font-size:18px;margin:5px">{sp_artist}</p>
         </td>
     </tr>
