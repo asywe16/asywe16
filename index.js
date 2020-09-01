@@ -3,9 +3,9 @@ require("isomorphic-unfetch");
 const { promises: fs } = require("fs");
 const path = require("path");
 
-const clientId = process.env.CLIENT_ID;
-const clientSecret = process.env.CLIENT_SECRET;
-const refreshToken = process.env.REFRESH_TOKEN;
+const clientId = process.env.SPOTIFY_CLIENT_ID;
+const clientSecret = process.env.SPOTIFY_CLIENT_SECRET;
+const refreshToken = process.env.SPOTIFY_REFRESH_TOKEN;
 
 async function main() {
     const readmeTemplate = (
