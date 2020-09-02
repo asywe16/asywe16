@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href=https://open.spotify.com/track/4HPt01bjQGK7LHww0gNCGg>
-                <img src=https://i.scdn.co/image/ab67616d0000b273987baa5b8d3014b77d6c9577 alt="Song image" width="100px" height="100px">
+            <a href=https://open.spotify.com/track/1JqcZQCnxjDOfZZwQidb1H>
+                <img src=https://i.scdn.co/image/ab67616d0000b27384501102111aef7bc85a28c5 alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Doop</b>
-            <p style="font-size:18px;margin:5px">Zion.T, Verbal Jint</p>
+            <b style="font-size:20px;margin:5px">Broke</b>
+            <p style="font-size:18px;margin:5px">Samm Henshaw</p>
         </td>
     </tr>
 </table>
