@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href=https://open.spotify.com/track/11gXs1fmRhR5Q6PxD3Lhr4>
-                <img src=https://i.scdn.co/image/ab67616d0000b273590aab661dbd0f2df2707188 alt="Song image" width="100px" height="100px">
+            <a href=https://open.spotify.com/track/4kmp56RAtXEzHOANS0BaLX>
+                <img src=https://i.scdn.co/image/ab67616d0000b273e74aeef1b3f0a2a871723c5b alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Girls That Dance</b>
-            <p style="font-size:18px;margin:5px">Masego, Medasin</p>
+            <b style="font-size:20px;margin:5px">花요일 Blooming Day</b>
+            <p style="font-size:18px;margin:5px">EXO-CBX</p>
         </td>
     </tr>
 </table>
