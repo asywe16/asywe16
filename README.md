@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href=https://open.spotify.com/track/2IrA9OXY0OYHbIijbLUta9>
-                <img src=https://i.scdn.co/image/ab67616d0000b27368469227eb8f50e2d326a32d alt="Song image" width="100px" height="100px">
+            <a href=https://open.spotify.com/track/0iNXcid1Ro7OLe4L6fFfLG>
+                <img src=https://i.scdn.co/image/ab67616d0000b2733d19cb4d120c7869bd8435fe alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Excuse Me Miss</b>
-            <p style="font-size:18px;margin:5px">SHINee</p>
+            <b style="font-size:20px;margin:5px">All Day (Flex)</b>
+            <p style="font-size:18px;margin:5px">Jay Park, HAON, YUMDDA</p>
         </td>
     </tr>
 </table>
