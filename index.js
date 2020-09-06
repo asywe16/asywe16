@@ -7,6 +7,12 @@ const clientId = process.env.SPOTIFY_CLIENT_ID;
 const clientSecret = process.env.SPOTIFY_CLIENT_SECRET;
 const refreshToken = process.env.SPOTIFY_REFRESH_TOKEN;
 
+// const clientId = process.env.CLIENT_ID;
+// const clientSecret = process.env.CLIENT_SECRET;
+// const refreshToken = process.env.REFRESH_TOKEN;
+
+const gray_sq_image = "https://www.onegoalgraduation.org/wp-content/uploads/2016/07/gray_square.png"
+
 async function main() {
     const readmeTemplate = (
         await fs.readFile(path.join(process.cwd(), "./README.template.md"))
@@ -24,7 +30,7 @@ async function main() {
         )
     ).json();
 
-    console.log(access_token)
+    // console.log(access_token)
 
     // default values if nothing is playing rn
     var img = "./gray_sq.jpg";
@@ -39,8 +45,6 @@ async function main() {
         })
     ).json()
     .then(curr_track => {
-        console.log(curr_track);
-
         // get list of artists
         var artist_list = ""
         const json_artists = curr_track.item.artists;
@@ -54,18 +58,20 @@ async function main() {
             .replace("{sp_img}", curr_track.item.album.images[0].url)
             .replace("{sp_name}", curr_track.item.name)
             .replace("{sp_artist}", artist_list)
-            .replace("{sp_link}", curr_track.item.external_urls.spotify);
+            .replace("{sp_link}", curr_track.item.external_urls.spotify)
+            .replace("{ptr_e}", "auto");
 
         fs.writeFile("README.md", readme);
     })
     .catch(error => {
-        console.log("No response");
+        // console.log("No response");
 
         const readme = readmeTemplate
-            .replace("{sp_img}", "./gray_sq.jpg")
-            .replace("{sp_name}", "Nothing playing right now...")
-            .replace("{sp_artist}", "")
-            .replace("{sp_link}", "");
+            .replace("{sp_img}", gray_sq_image)
+            .replace("{sp_name}", "")
+            .replace("{sp_artist}", "Nothing playing right now...")
+            .replace("{sp_link}", "")
+            .replace("{ptr_e}", "none");
 
         fs.writeFile("README.md", readme);
     });
