@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/7b6z03ctOD39o4Cez0wr0X" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273a61375802b0564434fb9a2e9" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/1SGRHEkArmCqvhXEgSPt6U" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273ffee00a79ace67329720345a" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Switchblade</b>
-            <p style="font-size:18px;margin:5px">NIKI</p>
+            <b style="font-size:20px;margin:5px">Just Wanna Run (Young Smoke Remix)</b>
+            <p style="font-size:18px;margin:5px">Blanches, Dinah Smith, Young Smoke</p>
         </td>
     </tr>
 </table>
