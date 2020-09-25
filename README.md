@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/1kznDMHz1kpzk7sMYIkrQ5" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2739bb453695e0776ceb13576f3" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/1BltsyC5W3SAABdxyrDXwi" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273c93130a723a66c65717c3c58" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Thinking Of (feat. OVAN & SUMIN)</b>
-            <p style="font-size:18px;margin:5px">SHAUN, OVAN, SUMIN</p>
+            <b style="font-size:20px;margin:5px">Latch</b>
+            <p style="font-size:18px;margin:5px">Disclosure, Sam Smith</p>
         </td>
     </tr>
 </table>
