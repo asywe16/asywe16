@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2733138f891f3075c9c5d944037" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/5sR6TTrfskECmYn8yn1GGL" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2731dc7bab1ea47de7dd21b42e1" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Get You (feat. Kali Uchis)</b>
-            <p style="font-size:18px;margin:5px">Daniel Caesar, Kali Uchis</p>
+            <b style="font-size:20px;margin:5px">LATE NIGHT</b>
+            <p style="font-size:18px;margin:5px">JAY.D.S</p>
         </td>
     </tr>
 </table>
