@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/4vh0x47AvwbCywPOlEmfFQ" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273dfcc586ec3e22036e005a0c1" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/05G51ez5Z73NRE0l2QtZfH" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2739d79d5174f6f26bed81859b3" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Hello Tutorial</b>
-            <p style="font-size:18px;margin:5px">Zion.T, SEULGI</p>
+            <b style="font-size:20px;margin:5px">Short Hair</b>
+            <p style="font-size:18px;margin:5px">AOA</p>
         </td>
     </tr>
 </table>
