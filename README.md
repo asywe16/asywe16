@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/6FfFX2rqP7AG0o07VC2Dac" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2736a28bb33c899239e43a26e42" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/2VqKx3HH8gaZPabNWYvksy" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b27353c8eea457ff7ca8fbe32d68" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">곁에 있어주길 Stay with Me</b>
-            <p style="font-size:18px;margin:5px">Jay Park</p>
+            <b style="font-size:20px;margin:5px">I Want You Around</b>
+            <p style="font-size:18px;margin:5px">Snoh Aalegra</p>
         </td>
     </tr>
 </table>
