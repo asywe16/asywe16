@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="" target="_blank" style="padding:15px;pointer-events:none">
-                <img src="https://www.onegoalgraduation.org/wp-content/uploads/2016/07/gray_square.png" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/41Wez07tvAmZMrYHi2K86j" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2737d6ad75a119d23fdb1352f61" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px"></b>
-            <p style="font-size:18px;margin:5px">Nothing playing right now...</p>
+            <b style="font-size:20px;margin:5px">Don't Wanna Fall In Love</b>
+            <p style="font-size:18px;margin:5px">KYLE</p>
         </td>
     </tr>
 </table>
