@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/12AZFn9F5h9tlxMEbdZEwm" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273f00c2db1233632cf0736e531" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/1vb8Hd9DKciMKBBIwV5QmD" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273f112a93e33803d993687f262" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">247 (Feat. Zion.T, Crush, DEAN)</b>
-            <p style="font-size:18px;margin:5px">Junggigo</p>
+            <b style="font-size:20px;margin:5px">Don't</b>
+            <p style="font-size:18px;margin:5px">Loco, Hwa Sa</p>
         </td>
     </tr>
 </table>
