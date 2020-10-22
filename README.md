@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/5adg8YUPhSDxFZEgTbuTaL" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2735c6f9ddc5217f98106890d74" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">한번만 더 Once More</b>
-            <p style="font-size:18px;margin:5px">Golden</p>
+            <b style="font-size:20px;margin:5px">Treasure</b>
+            <p style="font-size:18px;margin:5px">Bruno Mars</p>
         </td>
     </tr>
 </table>
