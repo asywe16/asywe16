@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/0EzhO1YwXGTT9P2WXU3GC7" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2734b80ac523a2fda4d459b595e" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/2mHOUqoE9d1Iwj5zQWQ1K2" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273a87702a694236af32a3cc23e" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Window</b>
-            <p style="font-size:18px;margin:5px">JUNNY, Yelloasis</p>
+            <b style="font-size:20px;margin:5px">Tiki-Taka 티격태격 (Feat. DPR LIVE)</b>
+            <p style="font-size:18px;margin:5px">Crush, DPR LIVE</p>
         </td>
     </tr>
 </table>
