@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/1erAIak2Dinmt4xitfLEqw" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2733a8cc498eaea8bf10b22d0e4" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/2XaQJLamoo5VDrwg3SPLy3" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2731b026dbb45ebfe433ecbdea3" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Step By Step (with yoonmirae)</b>
-            <p style="font-size:18px;margin:5px">Crush, Yoon Mirae</p>
+            <b style="font-size:20px;margin:5px">24</b>
+            <p style="font-size:18px;margin:5px">JUNNY, Yelloasis</p>
         </td>
     </tr>
 </table>
