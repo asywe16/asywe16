@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/7uGNxdxIJUA42JWX7fh0hL" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2731716b83c20227937a64a6bd9" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/2AWswjSOFmDddA2u9Cc93D" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273b0dfd8cbbb4d2fd72c3a87e2" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Boat</b>
-            <p style="font-size:18px;margin:5px">George</p>
+            <b style="font-size:20px;margin:5px">So To Say (feat. Crush, Hoody)</b>
+            <p style="font-size:18px;margin:5px">JINBO the SuperFreak</p>
         </td>
     </tr>
 </table>
