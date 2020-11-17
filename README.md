@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/1SPX6Np13QyoLF1qdlLl6C" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b27338b29effd5af942ca8d7a8b0" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/4xMBL6zax57S2EHzI2Vloy" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2736aef0beb5d4a74bcad0e337d" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Black Hole</b>
-            <p style="font-size:18px;margin:5px">SHINee</p>
+            <b style="font-size:20px;margin:5px">Love Lockdown</b>
+            <p style="font-size:18px;margin:5px">Kanye West</p>
         </td>
     </tr>
 </table>
