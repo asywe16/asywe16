@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/2M9ULmQwTaTGmAdXaXpfz5" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b27337ce3dd20c2318e13c6608ed" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/4QzzRXTsC6SII4Ud47S352" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273a54e106785d7bffa0b0344d8" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Billionaire (feat. Bruno Mars)</b>
-            <p style="font-size:18px;margin:5px">Travie McCoy, Bruno Mars</p>
+            <b style="font-size:20px;margin:5px">Love Don’t Hurt</b>
+            <p style="font-size:18px;margin:5px">Shannon, Amber</p>
         </td>
     </tr>
 </table>
