@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/1Uw2ZFb7B4d3Rz9xv4Rrf4" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273af5a8510faba6aa0b1cf5162" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/0Uxmhbm1sUiyh6geMnwzG4" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273b26cde23d2c7248949eb262b" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Let Me</b>
-            <p style="font-size:18px;margin:5px">ZAYN</p>
+            <b style="font-size:20px;margin:5px">I've Always Been</b>
+            <p style="font-size:18px;margin:5px">Mac Ayres, Jack Dine, Zach Berro</p>
         </td>
     </tr>
 </table>
