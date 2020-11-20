@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/6cqRtlaY7Df0TuedGCxSmA" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b27387ed3f989258e5a32212f08d" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2739e588b0c2afe8178b2b76231" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Caught Up</b>
-            <p style="font-size:18px;margin:5px">Mac Ayres</p>
+            <b style="font-size:20px;margin:5px">No Guidance (feat. Drake)</b>
+            <p style="font-size:18px;margin:5px">Chris Brown, Drake</p>
         </td>
     </tr>
 </table>
