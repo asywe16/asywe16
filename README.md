@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/54FxjtVjXuY4jn6YFMO1NH" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2739cb53b7a34c898380cec05b2" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/1kQcX6cLpC57HQqqSRrHi4" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b27382953bbcd097819dab3fea11" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Pickled Ginger</b>
-            <p style="font-size:18px;margin:5px">Mac Ayres</p>
+            <b style="font-size:20px;margin:5px">Ring Ring (feat. Gaeko)</b>
+            <p style="font-size:18px;margin:5px">Sik-K, Gaeko</p>
         </td>
     </tr>
 </table>
