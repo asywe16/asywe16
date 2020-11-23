@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/23c9gmiiv7RCu7twft0Mym" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273c70176fa51326491ecc5f79e" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/6xDuCfOD3RT2ezdNKt6UCY" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2739cea68fc19754de08e3f1a06" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Who Hurt You?</b>
-            <p style="font-size:18px;margin:5px">Daniel Caesar</p>
+            <b style="font-size:20px;margin:5px">U</b>
+            <p style="font-size:18px;margin:5px">Primary, Kwon Jin Ah, Rap Monster</p>
         </td>
     </tr>
 </table>
