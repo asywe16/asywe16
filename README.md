@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/4WxeDb9YZABqk3QaH9CCu1" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b27373b15cb8de2ced2292e6c3aa" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/6jLsYKGOBRBRvdowIzuyUf" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2736a28bb33c899239e43a26e42" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">NO WAY</b>
-            <p style="font-size:18px;margin:5px">LeeHi, Golden</p>
+            <b style="font-size:20px;margin:5px">All I Wanna Do (feat. Hoody & 로꼬 Loco) [Korean Version]</b>
+            <p style="font-size:18px;margin:5px">Jay Park, Hoody, Loco</p>
         </td>
     </tr>
 </table>
