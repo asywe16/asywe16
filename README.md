@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/1OjmlSFuzYflWjSMTCyTJv" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273e393950ed26cf61970d1e798" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/2bhUuihxnwHia4kXN0Tx6m" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b27384cb1693d64d421fbcfe7c10" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Like It's Christmas</b>
-            <p style="font-size:18px;margin:5px">Jonas Brothers</p>
+            <b style="font-size:20px;margin:5px">Give Love on Christmas Day - Recorded at Spotify Studios NYC - Spotify Singles - Christmas</b>
+            <p style="font-size:18px;margin:5px">John Legend</p>
         </td>
     </tr>
 </table>
