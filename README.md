@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/3oik0ycobGW9zGNl5m2gNF" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2739954026283e54100b9c2c206" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/5V3cwxCMYUHCf8dtWgbw7e" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b27307215952834fab0b99a67154" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Good Morning (feat. Villain)</b>
-            <p style="font-size:18px;margin:5px">JUNE, Villain</p>
+            <b style="font-size:20px;margin:5px">One Step (feat.Jay Park)</b>
+            <p style="font-size:18px;margin:5px">Hyolyn</p>
         </td>
     </tr>
 </table>
