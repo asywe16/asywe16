@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/4fvYU9z5abXplnTpdeejJs" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2731a5067891e912d99b31f813b" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/16J9CcYE8XRrjHolbP148Y" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273262ee368886f6b290c338ef5" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Show Me</b>
-            <p style="font-size:18px;margin:5px">Alina Baraz, Galimatias</p>
+            <b style="font-size:20px;margin:5px">Is You Down</b>
+            <p style="font-size:18px;margin:5px">DPR LIVE</p>
         </td>
     </tr>
 </table>
