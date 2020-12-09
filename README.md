@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/1iArAuiiDPjtZcwO33YeLF" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2731f014a28b9942733376be88f" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/1Uw2ZFb7B4d3Rz9xv4Rrf4" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273af5a8510faba6aa0b1cf5162" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Too Much (Feat. DEAN)</b>
-            <p style="font-size:18px;margin:5px">Loco</p>
+            <b style="font-size:20px;margin:5px">Let Me</b>
+            <p style="font-size:18px;margin:5px">ZAYN</p>
         </td>
     </tr>
 </table>
