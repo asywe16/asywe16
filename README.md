@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/6j7hih15xG2cdYwIJnQXsq" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2736b3b5436a48203e35b89b9ba" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Crazy In Love (feat. Jay-Z)</b>
-            <p style="font-size:18px;margin:5px">Beyoncé, JAY-Z</p>
+            <b style="font-size:20px;margin:5px">Not Over You</b>
+            <p style="font-size:18px;margin:5px">Gavin DeGraw</p>
         </td>
     </tr>
 </table>
