@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2733138f891f3075c9c5d944037" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/40yRsQrVaYvuBqjss3WdCv" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2734b5186cf9433dcc16b11db5c" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Best Part (feat. H.E.R.)</b>
-            <p style="font-size:18px;margin:5px">Daniel Caesar, H.E.R.</p>
+            <b style="font-size:20px;margin:5px">고엽 Autumn Leaves</b>
+            <p style="font-size:18px;margin:5px">BTS</p>
         </td>
     </tr>
 </table>
