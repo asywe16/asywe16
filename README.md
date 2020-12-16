@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/3WKOfIpqPHnhzogH2Ds73k" target="_blank" style="padding:15px;pointer-events:auto">
+            <a href="https://open.spotify.com/track/2kqNyARXel75tCL1ILUBhN" target="_blank" style="padding:15px;pointer-events:auto">
                 <img src="https://i.scdn.co/image/ab67616d0000b273d92868ef7be482079273b352" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">F(ucked up) (Feat. Gaeko, GRAY)</b>
-            <p style="font-size:18px;margin:5px">CODE KUNST, GRAY, Gaeko</p>
+            <b style="font-size:20px;margin:5px">Dance (Feat. Nucksal)</b>
+            <p style="font-size:18px;margin:5px">CODE KUNST, Nucksal</p>
         </td>
     </tr>
 </table>
