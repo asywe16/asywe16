@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/2wCVpdNSHjqIn2en8jAnF0" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2735355919e31efac9b14c45c49" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/3WKOfIpqPHnhzogH2Ds73k" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273d92868ef7be482079273b352" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Paranoid</b>
-            <p style="font-size:18px;margin:5px">Lauv</p>
+            <b style="font-size:20px;margin:5px">F(ucked up) (Feat. Gaeko, GRAY)</b>
+            <p style="font-size:18px;margin:5px">CODE KUNST, GRAY, Gaeko</p>
         </td>
     </tr>
 </table>
