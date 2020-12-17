@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/4k6hX9RKD096K1NCjjJZLc" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273cccb973e9ff7440fbaf8485e" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/7Jrp7Q9wwHZgumcQxMpvj0" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b27387ed3f989258e5a32212f08d" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Footsteps (feat. Musiq Soulchild)</b>
-            <p style="font-size:18px;margin:5px">Kehlani, Musiq Soulchild</p>
+            <b style="font-size:20px;margin:5px">I Wanna Give Up</b>
+            <p style="font-size:18px;margin:5px">Mac Ayres</p>
         </td>
     </tr>
 </table>
