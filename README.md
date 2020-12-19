@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/4hhEGwAhliHUyKPXy2ipDl" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2737cbbf83a1b22153e11474384" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/2p980qlVXYLh3HdHusbhfa" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b27318974569625e8449a5497ef3" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Sad Love Song</b>
-            <p style="font-size:18px;margin:5px">KozyPop, Ranez, Rheehab, slchld</p>
+            <b style="font-size:20px;margin:5px">Pour Up</b>
+            <p style="font-size:18px;margin:5px">DEAN, ZICO</p>
         </td>
     </tr>
 </table>
