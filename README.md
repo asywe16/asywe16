@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273c5148520a59be191eea16989" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/7Irqm1etxQfjqBDooIdQ3U" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/a0531e4b4efaa0894ff35b37d642688e91d93550" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">High Hopes</b>
-            <p style="font-size:18px;margin:5px">Panic! At The Disco</p>
+            <b style="font-size:20px;margin:5px">X (Feat. LEEHI)</b>
+            <p style="font-size:18px;margin:5px">CODE KUNST</p>
         </td>
     </tr>
 </table>
