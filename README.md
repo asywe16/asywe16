@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/2GUlZ7s1JEukBCmcqfkNNz" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273f22b74b25d79b7b99fb845b8" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/6Q6P0w0Cq8BxbujshtygHf" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2733b9a1e53d93c8e75f831ed15" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Fantasy - TEEMID Remix</b>
-            <p style="font-size:18px;margin:5px">Alina Baraz, Galimatias, TEEMID</p>
+            <b style="font-size:20px;margin:5px">~42</b>
+            <p style="font-size:18px;margin:5px">Primary, Sam Kim, eSNa</p>
         </td>
     </tr>
 </table>
