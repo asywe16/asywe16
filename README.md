@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/45sDIKapDyxPl307QpEAwl" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b27358b08d62231dfca8d358b876" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/1cv5jTZAKg2XNcj36OCcMg" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b27337197946b4ae0661de609af0" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Rocketeer</b>
-            <p style="font-size:18px;margin:5px">Far East Movement, Ryan Tedder, Ruff Loaderz</p>
+            <b style="font-size:20px;margin:5px">FIRE WATER</b>
+            <p style="font-size:18px;margin:5px">CODE KUNST, Golden, Tablo</p>
         </td>
     </tr>
 </table>
