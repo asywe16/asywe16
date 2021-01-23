@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/6pD8u2YwHZ2dRhdcYRUf65" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273d92868ef7be482079273b352" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/5EuAj9nZiWRKeBkgxMXsW4" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b27398698646c3f008a36fbf2bff" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Let u in (Feat. DeVita, Colde)</b>
-            <p style="font-size:18px;margin:5px">CODE KUNST, Colde, DeVita</p>
+            <b style="font-size:20px;margin:5px">Beautiful Girls</b>
+            <p style="font-size:18px;margin:5px">Sean Kingston</p>
         </td>
     </tr>
 </table>
