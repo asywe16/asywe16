@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/7l7FQufQxYcuEQ7u28ur37" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2735dd0de9898b70e3fcf2993ee" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/70eFcWOvlMObDhURTqT4Fv" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b27373304ce0653c7758dd94b259" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Blackout Christmas</b>
-            <p style="font-size:18px;margin:5px">VÉRITÉ</p>
+            <b style="font-size:20px;margin:5px">Beautiful People (feat. Khalid)</b>
+            <p style="font-size:18px;margin:5px">Ed Sheeran, Khalid</p>
         </td>
     </tr>
 </table>
