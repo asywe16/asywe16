@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/0cdvq8N4j4FdC6TS0pfrl6" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2738e1f1c51bbed423ce4ff07c8" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/61wlEMj864TFGs4lmVCedk" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2730d7972184a05c736e8d07ede" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">[Wei Wuxian] Qu Jin Chen Qing</b>
-            <p style="font-size:18px;margin:5px">Xiao Zhan</p>
+            <b style="font-size:20px;margin:5px">Let Go</b>
+            <p style="font-size:18px;margin:5px">Ne-Yo</p>
         </td>
     </tr>
 </table>
