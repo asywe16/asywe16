@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/0k6ItoyE50QuW50nGYLO2v" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2736a28bb33c899239e43a26e42" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/6RyrGKoQCqj5OGfySWPhqW" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b27322e4ad4c527cfa6cb1403f00" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Drive (feat. Gray)</b>
-            <p style="font-size:18px;margin:5px">Jay Park, GRAY</p>
+            <b style="font-size:20px;margin:5px">Chocolate</b>
+            <p style="font-size:18px;margin:5px">SHINee</p>
         </td>
     </tr>
 </table>
