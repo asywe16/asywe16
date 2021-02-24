@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/3PuIPfiLsp8UVmISbl3dMn" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273c924c04c0584496ce1447629" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/5KQWIZlH9mIbLpgyvcgdPC" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b27311d498b5264db5831653cbec" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">我很醜可是我很溫柔 (節奏版)</b>
-            <p style="font-size:18px;margin:5px">Zhao Chuan</p>
+            <b style="font-size:20px;margin:5px">DIRNH</b>
+            <p style="font-size:18px;margin:5px">Yelloasis, JUNNY</p>
         </td>
     </tr>
 </table>
