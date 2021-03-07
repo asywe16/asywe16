@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/6WUEeOiwMxMtrQCTrsEkBK" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b27314823906ae5ad5cd8ddf41b8" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/35RwDD46xMhmWxiPeUs35J" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273e357c2cd544014ef8eb1729f" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">0.03</b>
-            <p style="font-size:18px;margin:5px">ØZI</p>
+            <b style="font-size:20px;margin:5px">深呼吸</b>
+            <p style="font-size:18px;margin:5px">Evangeline Wong</p>
         </td>
     </tr>
 </table>
