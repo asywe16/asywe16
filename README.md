@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/3sC2Gyb5fp3x62zX8mMhW1" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273144753cc03c13d193e305631" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/29f11nLUcMYQ2Ndbnb7N0o" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b27329f70d39f4d8fee243fbb427" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">LUFU</b>
-            <p style="font-size:18px;margin:5px">ØZI, GSoul, Arin Ray</p>
+            <b style="font-size:20px;margin:5px">Dancing With A Stranger (With Normani) - Acoustic</b>
+            <p style="font-size:18px;margin:5px">Sam Smith, Normani</p>
         </td>
     </tr>
 </table>
