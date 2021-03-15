@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/04d6UdEDhKzZHQJBmEPARz" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b27381237f162a838b5f73c87de6" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/7vT2TGdqE54AzY4vDTQEXK" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2731744d850dc62fed96ecdf29a" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">浪漫主義</b>
-            <p style="font-size:18px;margin:5px">Tia Ray, Kehlani</p>
+            <b style="font-size:20px;margin:5px">Painful</b>
+            <p style="font-size:18px;margin:5px">EDEN, blah</p>
         </td>
     </tr>
 </table>
