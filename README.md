@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/3XArlmbyOyPgtnU5WlWygw" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273d2d56f75b6aa374ea4d410e6" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/2NBAwbspdemK8N2lerVXDz" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273465ae03c7642e9750447ac03" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Gameboy</b>
-            <p style="font-size:18px;margin:5px">Julia Wu</p>
+            <b style="font-size:20px;margin:5px">Fedexx Girl</b>
+            <p style="font-size:18px;margin:5px">BIBI, CHANGMO</p>
         </td>
     </tr>
 </table>
