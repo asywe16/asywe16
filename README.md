@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/4L3HKucMJc5ttUuexqWp7K" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b27339706d8c79b810458d9b4f70" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/5fCDWDX2Kv9jc1s7nZfzOi" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273876df70c59db46f63d74e20d" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Radar/2am</b>
-            <p style="font-size:18px;margin:5px">Jess Connelly, LUSTBASS</p>
+            <b style="font-size:20px;margin:5px">forever rain</b>
+            <p style="font-size:18px;margin:5px">RM</p>
         </td>
     </tr>
 </table>
