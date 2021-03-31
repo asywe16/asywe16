@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/2vcxujIExAyF415H5A045c" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2734c1f4af64ed085adb4581b21" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/17YuXw2ScwLLL1sUrRKhoW" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2731299248e7bc2eda8f3dc277c" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">1004 (Angel)</b>
-            <p style="font-size:18px;margin:5px">B.A.P</p>
+            <b style="font-size:20px;margin:5px">Fantasy</b>
+            <p style="font-size:18px;margin:5px">Alina Baraz, Galimatias</p>
         </td>
     </tr>
 </table>
