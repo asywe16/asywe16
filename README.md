@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/4vxN69wNtCdjJntseEQqq6" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b27335984332bc429bff4155ca64" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/5RMFNwoEPefFBBmnKPNPFK" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2734938101e17bae8ee9563989b" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">I Can't Find</b>
-            <p style="font-size:18px;margin:5px">Ted Park, Villain</p>
+            <b style="font-size:20px;margin:5px">Just A Lil Bit</b>
+            <p style="font-size:18px;margin:5px">JP THE WAVY, Sik-K</p>
         </td>
     </tr>
 </table>
