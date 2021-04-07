@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/4oQnPyy2nHdAKZmdhVSX4H" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2732ff4fab4c3434afe31a0e247" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/2qBZtpsdOb4SXRCYdTageW" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2736d977b3e8fd3fc3674ac81ff" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">慢走不送</b>
-            <p style="font-size:18px;margin:5px">J.Sheon, Eve Ai, Morrison 馬仕釗</p>
+            <b style="font-size:20px;margin:5px">Comedian</b>
+            <p style="font-size:18px;margin:5px">Zion.T</p>
         </td>
     </tr>
 </table>
