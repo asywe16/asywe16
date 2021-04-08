@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/28RExPa3v00N47RZdaQduJ" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273c05dd09c681d73749a62ec6e" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/3G1OkwOwT7rQpjxooDgApO" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273a01fed49fe3a84a9919cef29" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">漂亮美好 - Remix</b>
-            <p style="font-size:18px;margin:5px">MC 耀宗, 彭柏邑</p>
+            <b style="font-size:20px;margin:5px">Deserve You</b>
+            <p style="font-size:18px;margin:5px">Justin Bieber</p>
         </td>
     </tr>
 </table>
