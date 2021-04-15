@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/186AzR054q9nSWYSI3qr8D" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2735d9f44aad41cfdf90f4d039a" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/53G5qcU5dac7NmhvRY9HT6" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273c74c8001b90f36c0e2aa0ec6" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Losing You</b>
-            <p style="font-size:18px;margin:5px">Christian Kuria</p>
+            <b style="font-size:20px;margin:5px">I Don't Mind</b>
+            <p style="font-size:18px;margin:5px">Vidi Aldiano, Sheryl Sheinafia, Jevin Julian</p>
         </td>
     </tr>
 </table>
