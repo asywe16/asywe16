@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/1KLkG3SAEDcV8DwCWPlEsR" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/91d253d0ec513e3e6d4400e4540eff246cb8d5c8" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/6unbDt9A8o0qlPEpjERzTM" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b27387068f2e2c2c45be59ba6b97" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">GOOD TO YOU</b>
-            <p style="font-size:18px;margin:5px">2NE1</p>
+            <b style="font-size:20px;margin:5px">Geniuses & Thieves Pt. 2 - MYRNE Mix</b>
+            <p style="font-size:18px;margin:5px">Gentle Bones</p>
         </td>
     </tr>
 </table>
