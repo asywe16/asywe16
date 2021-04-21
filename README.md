@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/0wTwQC1TBfmARocEljNDZs" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273877322516d7ca20e5702f2ec" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/7wd9k6Pik9fpMhBiNdEtYo" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2734b5186cf9433dcc16b11db5c" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">몸매 Mommae (feat. Ugly Duck)</b>
-            <p style="font-size:18px;margin:5px">Jay Park, Ugly Duck</p>
+            <b style="font-size:20px;margin:5px">RUN</b>
+            <p style="font-size:18px;margin:5px">BTS</p>
         </td>
     </tr>
 </table>
