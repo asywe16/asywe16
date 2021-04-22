@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/5dsJhdbucwFXhaM7FcD91T" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273396802f4f678bdb0d6e40901" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/6oByGUzTHEOAgSX0Nqmols" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b27342eab786e1f468f4efd877ad" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Sleep Mode (English Ver.)</b>
-            <p style="font-size:18px;margin:5px">Bernard Park</p>
+            <b style="font-size:20px;margin:5px">Felt You (feat. Yumi)</b>
+            <p style="font-size:18px;margin:5px">Sylo Nozra, YUMI</p>
         </td>
     </tr>
 </table>
