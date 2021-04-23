@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/2q7PWTCqbwGMxiPguWGqoH" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b27325f378ada9c5b7e901409d72" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/5G1tZ7WSNHmvu5mzs3BpQe" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2733142ad01e5b9905abc4011ce" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Don't Look Back</b>
-            <p style="font-size:18px;margin:5px">PREP, Shownu, So!YoON!</p>
+            <b style="font-size:20px;margin:5px">My Girl</b>
+            <p style="font-size:18px;margin:5px">Kan Sano</p>
         </td>
     </tr>
 </table>
