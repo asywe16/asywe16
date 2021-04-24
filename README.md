@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/7HOpH9FAgS8axilvDU8w6d" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2731dcdbd37f52c9f2df8c1689b" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/0AtY4uFaYBIl6tAjONkk1Z" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273f0520bbb79a72f69286fb0c5" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">200%</b>
-            <p style="font-size:18px;margin:5px">AKMU</p>
+            <b style="font-size:20px;margin:5px">Your Peace (feat. Lil Baby)</b>
+            <p style="font-size:18px;margin:5px">Jacquees, Lil Baby</p>
         </td>
     </tr>
 </table>
