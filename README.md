@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/38OzhtWttVKuHewwMmOF8x" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2738dbeec471a26058c06ec8d71" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/7L5P30Eg8eta8Q9em2VteI" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273900b82fe77fcfdb00bcde612" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Wi-Fi (with ZICO)</b>
-            <p style="font-size:18px;margin:5px">Yoon Jong Shin, ZICO</p>
+            <b style="font-size:20px;margin:5px">South</b>
+            <p style="font-size:18px;margin:5px">Galimatias</p>
         </td>
     </tr>
 </table>
