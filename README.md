@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/0PDDcA8Huv30K3882xUR2H" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273ade4edd31ce170c9c60e26cb" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/5BTWNpcsbw89ALMAzhPA3m" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2739026eda85351ba6c03272d84" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Lovedrops falling on my head</b>
-            <p style="font-size:18px;margin:5px">Myle.D, Swalo, Ryan</p>
+            <b style="font-size:20px;margin:5px">Lately</b>
+            <p style="font-size:18px;margin:5px">Ravi</p>
         </td>
     </tr>
 </table>
