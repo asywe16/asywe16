@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/748mdHapucXQri7IAO8yFK" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273908280d9807127e185b71d56" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/2x5Frs6ts14U4MSLrQQlXg" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273d9ac65941679b76106866c87" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Kiss Me More (feat. SZA)</b>
-            <p style="font-size:18px;margin:5px">Doja Cat, SZA</p>
+            <b style="font-size:20px;margin:5px">Why iii Love The Moon.</b>
+            <p style="font-size:18px;margin:5px">Phony Ppl</p>
         </td>
     </tr>
 </table>
