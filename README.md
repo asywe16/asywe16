@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/1ZPpGPko8oULTmi34rozMh" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2736feb6d9ed7891f40e9a524dd" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/1OJhpU6LpvivxuFbDjX5Nk" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2734f6e194907e5cb9c4705e79e" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Trivia 轉 : Seesaw</b>
-            <p style="font-size:18px;margin:5px">BTS</p>
+            <b style="font-size:20px;margin:5px">Special</b>
+            <p style="font-size:18px;margin:5px">LeeHi, Jennie Kim</p>
         </td>
     </tr>
 </table>
