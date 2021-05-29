@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/2lCinwx9z9Fmr8kcXDei0c" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2733bfe6c34aa27e60ceceff193" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/32qLwcEpoKeutWxwrJM4FX" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273df61e77cde1ba16b88d0aa96" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">AUTOMATIC REMIX</b>
-            <p style="font-size:18px;margin:5px">Chancellor, Jay Park, LeeHi, BIBI, Jamie, Moon Sujin, BUMKEY, Samuel Seo, SURAN, Babylon, Hoody, SUMIN, MRSHLL, Ann One, ELO, twlv, oceanfromtheblue, Jiselle, SOLE, THAMA, K.vsh, JINBO, jerd, Soovi, B.E.D., Xydo, Owell Mood, None</p>
+            <b style="font-size:20px;margin:5px">COVID-19 (feat. SUPERBEE)</b>
+            <p style="font-size:18px;margin:5px">BUMKEY, SUPERBEE</p>
         </td>
     </tr>
 </table>
