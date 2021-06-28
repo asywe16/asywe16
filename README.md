@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/1YDebgap5OFwXEBG18NJvy" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b27319fc40e920401ce322487abf" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/2ej1A2Ze6P2EOW7KfIosZR" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273912cc8fe2e9a53d328757a41" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Red Light Green Light</b>
-            <p style="font-size:18px;margin:5px">DaBaby</p>
+            <b style="font-size:20px;margin:5px">Feather (feat. Cise Starr & Akin from CYNE)</b>
+            <p style="font-size:18px;margin:5px">Nujabes, Cise Star, Akin</p>
         </td>
     </tr>
 </table>
