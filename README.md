@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/43XQxLhbUFqqCtRYiKCdCx" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b27336373027ceb088dacd859899" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/1YDebgap5OFwXEBG18NJvy" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b27319fc40e920401ce322487abf" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Moonlight</b>
-            <p style="font-size:18px;margin:5px">Conor Albert, Mac Ayres</p>
+            <b style="font-size:20px;margin:5px">Red Light Green Light</b>
+            <p style="font-size:18px;margin:5px">DaBaby</p>
         </td>
     </tr>
 </table>
