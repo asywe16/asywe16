@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/1yTzV5hu76CuDGwIVHoFbL" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b27368e570acfe1ced40230090e9" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/1DSP945TwqdRaTciHHTVq1" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b27377e85d5b450bf6bccf9daf92" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Tha Steeze</b>
-            <p style="font-size:18px;margin:5px">Hard Car Kids, Charlie Burg, J.Robb</p>
+            <b style="font-size:20px;margin:5px">leading me on but i'm not mad about it</b>
+            <p style="font-size:18px;margin:5px">remy</p>
         </td>
     </tr>
 </table>
