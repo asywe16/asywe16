@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/0hjzYWeDHpQbKocmKuGBI7" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2733a23f77a7a8325df5c207007" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/0Lhy1sDDdtUFY2pyq2ZVi9" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b27330ead8f7d556f54dc3bac63d" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">You Been On My Mind</b>
-            <p style="font-size:18px;margin:5px">Public Library Commute</p>
+            <b style="font-size:20px;margin:5px">Hit Me Up</b>
+            <p style="font-size:18px;margin:5px">Omar Apollo, Dominic Fike, Kenny Beats</p>
         </td>
     </tr>
 </table>
