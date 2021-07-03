@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/5aOpzm8W8zysk4asB9hxJw" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273750d4a1b362296d1b815a223" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/59t8W4umMJSSN4DTdpNsoq" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2739142fc2e63491778ed134cb5" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Say It (feat. Tove Lo)</b>
-            <p style="font-size:18px;margin:5px">Flume, Tove Lo</p>
+            <b style="font-size:20px;margin:5px">Better</b>
+            <p style="font-size:18px;margin:5px">Sam Rui</p>
         </td>
     </tr>
 </table>
