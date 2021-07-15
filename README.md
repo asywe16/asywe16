@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/7sfKMjaxOA7tcjdaRt30SE" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2739d857b7ade0f9bb309ea56ff" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/2vsuel3g4zaLYSOY0mOMbi" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273b361ce46dbadbf8a11081b60" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Last Song</b>
-            <p style="font-size:18px;margin:5px">pH-1, Jay Park, AUDREY NUNA</p>
+            <b style="font-size:20px;margin:5px">Bad Luck</b>
+            <p style="font-size:18px;margin:5px">Khalid</p>
         </td>
     </tr>
 </table>
