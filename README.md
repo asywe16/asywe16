@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/50UZJFIsKu5NiFziKZdkmC" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273c7e906c39205c692afe35f91" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/6VqTWy8VqZhYVrUz0foEl2" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273866a8e60528fdfcb94a2ec09" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">How to Say Sorry</b>
-            <p style="font-size:18px;margin:5px">Middle School, ÊMIA</p>
+            <b style="font-size:20px;margin:5px">4hours</b>
+            <p style="font-size:18px;margin:5px">Laybacksound, LEEBADA</p>
         </td>
     </tr>
 </table>
