@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/0XBEFAQGwcpd7iCgro5hpZ" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/a0531e4b4efaa0894ff35b37d642688e91d93550" alt="Song image" width="100px" height="100px">
+            <a href="" target="_blank" style="padding:15px;pointer-events:none">
+                <img src="https://www.onegoalgraduation.org/wp-content/uploads/2016/07/gray_square.png" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">PARACHUTE (Feat. OhHyuk, Dok2)</b>
-            <p style="font-size:18px;margin:5px">CODE KUNST</p>
+            <b style="font-size:20px;margin:5px"></b>
+            <p style="font-size:18px;margin:5px">Nothing playing right now...</p>
         </td>
     </tr>
 </table>
