@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2733cf1c1dbcfa3f1ab7282719b" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/66NRKCEurE3Oq12BViuqAQ" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273d66b542a97ff4311e8474354" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Centuries</b>
-            <p style="font-size:18px;margin:5px">Fall Out Boy</p>
+            <b style="font-size:20px;margin:5px">Stupid love song (with Crush)</b>
+            <p style="font-size:18px;margin:5px">AKMU, Crush</p>
         </td>
     </tr>
 </table>
