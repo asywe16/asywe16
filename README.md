@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/4FCb4CUbFCMNRkI6lYc1zI" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2730f688fa11af022f0210e21cb" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/0JN7vUgUolHGHFrOR8xk7S" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b27384b84d08fdbaebb99098890c" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Hero</b>
-            <p style="font-size:18px;margin:5px">Mariah Carey</p>
+            <b style="font-size:20px;margin:5px">When You Believe - from The Prince of Egypt</b>
+            <p style="font-size:18px;margin:5px">Whitney Houston, Mariah Carey</p>
         </td>
     </tr>
 </table>
