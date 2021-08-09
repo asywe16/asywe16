@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/5AprQMAX0PtpG923NUgZN6" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2738ee3e0ea4b258f7ad5b6499c" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/2v5JTeM6hSmi5wWy7jiwrI" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2739067de29733d1ecf1b87e583" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Hero</b>
-            <p style="font-size:18px;margin:5px">Weezer</p>
+            <b style="font-size:20px;margin:5px">I've Been Waiting (w/ ILoveMakonnen & Fall Out Boy)</b>
+            <p style="font-size:18px;margin:5px">Lil Peep, ILOVEMAKONNEN, Fall Out Boy</p>
         </td>
     </tr>
 </table>
