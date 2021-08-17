@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/0XJDfLHO7C6b0GpjeB5mpu" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b27360c84f44c080824ce336e1a1" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/4pmU8AtVu9qU40Xd9zjEfA" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Save Rock And Roll</b>
-            <p style="font-size:18px;margin:5px">Fall Out Boy, Elton John</p>
+            <b style="font-size:20px;margin:5px">A Little Less Sixteen Candles, A Little More "Touch Me"</b>
+            <p style="font-size:18px;margin:5px">Fall Out Boy</p>
         </td>
     </tr>
 </table>
