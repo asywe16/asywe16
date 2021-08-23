@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/23ICEC6IVMTNcDkPZF9L5q" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b27347cbaf30fde8dfe00a5bacea" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/5Qg0xK4s85tINbQcJD3GDq" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273876df70c59db46f63d74e20d" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">우리 이젠 어디로 Where Do We Go From Here</b>
-            <p style="font-size:18px;margin:5px">GSoul</p>
+            <b style="font-size:20px;margin:5px">badbye</b>
+            <p style="font-size:18px;margin:5px">RM, eAeon</p>
         </td>
     </tr>
 </table>
