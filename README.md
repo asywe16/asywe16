@@ -5,12 +5,12 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/5qtwzv99vOr5UTwnTixn7j" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273c2ced39899b0d67cd5a724fa" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/1nLnpLXvl68RZCSjfkyiaa" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273ac9a652335cf34de9a65292a" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Know Your Enemy</b>
+            <b style="font-size:20px;margin:5px">Brain Stew</b>
             <p style="font-size:18px;margin:5px">Green Day</p>
         </td>
     </tr>
