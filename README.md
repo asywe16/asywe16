@@ -5,12 +5,12 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/7wclPheMJAUKn2njmO2s3A" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273464da76fa0e1570e1844b622" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2731e0dc5baaabda304b0ad1815" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Pork And Beans</b>
+            <b style="font-size:20px;margin:5px">Island In The Sun</b>
             <p style="font-size:18px;margin:5px">Weezer</p>
         </td>
     </tr>
