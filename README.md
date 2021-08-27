@@ -5,12 +5,12 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/3JOdLCIBzQYwHIvpN3isVf" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2733acad60fe6e2daf27e6b0034" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/4pmU8AtVu9qU40Xd9zjEfA" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Grand Theft Autumn / Where Is Your Boy</b>
+            <b style="font-size:20px;margin:5px">A Little Less Sixteen Candles, A Little More "Touch Me"</b>
             <p style="font-size:18px;margin:5px">Fall Out Boy</p>
         </td>
     </tr>
