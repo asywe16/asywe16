@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/3cSxRgG3Wz84Aeigw3Hu6x" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2738cb5cb7f800217674a0755ca" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/4usd9lLG24P5tRp92CRoPc" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273aedc82e37f2899fd7f5e9cb6" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">羊皮先生</b>
-            <p style="font-size:18px;margin:5px">YELLOW</p>
+            <b style="font-size:20px;margin:5px">ALIEN</b>
+            <p style="font-size:18px;margin:5px">LEE SUHYUN</p>
         </td>
     </tr>
 </table>
