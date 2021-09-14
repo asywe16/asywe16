@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2737f213369d5265a60af5f7e82" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/6e13443Ve7RGcAUScTgYtl" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273bc8d2b3ac36be53be9a38fe1" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Boulevard of Broken Dreams</b>
-            <p style="font-size:18px;margin:5px">Green Day</p>
+            <b style="font-size:20px;margin:5px">The Last Of The Real Ones</b>
+            <p style="font-size:18px;margin:5px">Fall Out Boy</p>
         </td>
     </tr>
 </table>
