@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/6lzLjIOyWTyTJvk0jraYee" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273cbcf7df5b9720a31363d0d37" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/2Z8yfpFX0ZMavHkcIeHiO1" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b27312e57573cbc551c187a96107" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Could've Been (feat. Bryson Tiller)</b>
-            <p style="font-size:18px;margin:5px">H.E.R., Bryson Tiller</p>
+            <b style="font-size:20px;margin:5px">Monster (Shawn Mendes & Justin Bieber)</b>
+            <p style="font-size:18px;margin:5px">Shawn Mendes, Justin Bieber</p>
         </td>
     </tr>
 </table>
