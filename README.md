@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/6LDl8sQFRC65vWyxbG2ixb" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b27355a5bbb0518688dc9e834397" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/7Eb83iUNC8yBhGRqepiEXV" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2737bbc85639abd452e341b37c9" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Final Level Boss</b>
-            <p style="font-size:18px;margin:5px">Oli Wood</p>
+            <b style="font-size:20px;margin:5px">Mischievous Alchemy</b>
+            <p style="font-size:18px;margin:5px">Amos Roddy, ToyTree</p>
         </td>
     </tr>
 </table>
