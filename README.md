@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2739642e82608c68ebc941755de" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/7GexgV2qHe539oQIb6TXRv" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273aee92eb1a8f1561ec9bf3d3e" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Potential Breakup Song</b>
-            <p style="font-size:18px;margin:5px">Aly & AJ</p>
+            <b style="font-size:20px;margin:5px">By Chance (You & I) (Acoustic)</b>
+            <p style="font-size:18px;margin:5px">Jr Aquino</p>
         </td>
     </tr>
 </table>
