@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/6O5mgpq2xv3ZQGXnL3TNVW" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2737f4a16ef22b54867f1b6dd2f" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2732519d01c0cca06f134eeadd8" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Angel</b>
-            <p style="font-size:18px;margin:5px">Chancellor, TAEYEON</p>
+            <b style="font-size:20px;margin:5px">Sex on Fire</b>
+            <p style="font-size:18px;margin:5px">Kings of Leon</p>
         </td>
     </tr>
 </table>
