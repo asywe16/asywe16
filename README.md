@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/2cbWaw8K4fKvR9kgBg3ugq" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2731e89bb7b71df51f9f9f54fe7" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/2RSIGQ6paNEO5B9BoD8cqP" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273563846c44c5acb68ea70eb01" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Fly - FKJ Remix</b>
-            <p style="font-size:18px;margin:5px">June Marieezy, FKJ</p>
+            <b style="font-size:20px;margin:5px">Stop Running From Love</b>
+            <p style="font-size:18px;margin:5px">GSoul</p>
         </td>
     </tr>
 </table>
