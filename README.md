@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/0sWqfR6ICFDv0Mj6SXpldl" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2735f52337d04ee5ecc37a3b971" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/7AoK7YuZ5sQYtPofTFElIE" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273a05c6229569328ac27cc968e" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Dingo X GRAY - Moon Blue</b>
-            <p style="font-size:18px;margin:5px">GRAY</p>
+            <b style="font-size:20px;margin:5px">I'm Not Sorry</b>
+            <p style="font-size:18px;margin:5px">DEAN, Eric Bellinger</p>
         </td>
     </tr>
 </table>
