@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/06emSBtL6jcUXcjVlayUHl" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b27351660735d839c4761caf6c59" alt="Song image" width="100px" height="100px">
+            <a href="" target="_blank" style="padding:15px;pointer-events:none">
+                <img src="https://www.onegoalgraduation.org/wp-content/uploads/2016/07/gray_square.png" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">12 Songs, Op. 21: V. Lilacs (Transcr. Rachmaninoff for Solo Piano)</b>
-            <p style="font-size:18px;margin:5px">Sergei Rachmaninoff, Sergei Babayan</p>
+            <b style="font-size:20px;margin:5px"></b>
+            <p style="font-size:18px;margin:5px">Nothing playing right now...</p>
         </td>
     </tr>
 </table>
