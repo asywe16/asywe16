@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/5N6lcz1UZJVaX2gFjREz5c" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273d8a9859a31545c2878804b1c" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/2tPcTFiQF9MbVUyjZ3zDhA" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Flyday Chinatown by Yasuha</b>
-            <p style="font-size:18px;margin:5px">MesmoLate</p>
+            <b style="font-size:20px;margin:5px">Paramedic!</b>
+            <p style="font-size:18px;margin:5px">SOB X RBE</p>
         </td>
     </tr>
 </table>
