@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/14p5EKgbPx4U3P1j5JNHeh" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273d8ab8d3ddd6b3f1dff0ffb88" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/7sO5G9EABYOXQKNPNiE9NR" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2730f206fe737d46f2f2d826d83" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Cigarette (Feat. Tablo, MISO)</b>
-            <p style="font-size:18px;margin:5px">offonoff, Tablo, Miso</p>
+            <b style="font-size:20px;margin:5px">Ric Flair Drip (& Metro Boomin)</b>
+            <p style="font-size:18px;margin:5px">Offset, Metro Boomin</p>
         </td>
     </tr>
 </table>
