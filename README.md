@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/57vxBYXtHMk6H1aD29V7PU" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273f40f63ef9f83ccb287df244e" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Woman</b>
-            <p style="font-size:18px;margin:5px">Doja Cat</p>
+            <b style="font-size:20px;margin:5px">Heartless</b>
+            <p style="font-size:18px;margin:5px">The Weeknd</p>
         </td>
     </tr>
 </table>
