@@ -5,12 +5,12 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/2ZE2kEyhLNHb16LLFGz5Y4" target="_blank" style="padding:15px;pointer-events:auto">
+            <a href="https://open.spotify.com/track/5ILnlYHYSM4F0pOnkMXZ5U" target="_blank" style="padding:15px;pointer-events:auto">
                 <img src="https://i.scdn.co/image/ab67616d0000b2738cb5cb7f800217674a0755ca" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Meniere's Buzzing</b>
+            <b style="font-size:20px;margin:5px">.MERCY Rule</b>
             <p style="font-size:18px;margin:5px">YELLOW黃宣</p>
         </td>
     </tr>
