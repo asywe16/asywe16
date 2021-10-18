@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/4tUyEos6Bbufj7BLJaQGEJ" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273d6ad5f1aa9142d10c9939a2e" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/4DUmRDbkGK8eSCbnbrcpXo" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b27379f7caa5985da400a0f28365" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">3%</b>
-            <p style="font-size:18px;margin:5px">Nalba, Luxid</p>
+            <b style="font-size:20px;margin:5px">Now I Know</b>
+            <p style="font-size:18px;margin:5px">Kenichiro Nishihara</p>
         </td>
     </tr>
 </table>
