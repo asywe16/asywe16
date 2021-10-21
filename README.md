@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/0lYtIvI7bO51PZSeK22Mbz" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273e1ceb97165340ef92392b948" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/0t7kjpVLgOYITrSfFCoBEA" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">눈,코,입 (Eyes, Nose, Lips)</b>
-            <p style="font-size:18px;margin:5px">TAEYANG</p>
+            <b style="font-size:20px;margin:5px">Gee</b>
+            <p style="font-size:18px;margin:5px">Girls' Generation</p>
         </td>
     </tr>
 </table>
