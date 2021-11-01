@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273c63be04ae902b1da7a54d247" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/4YvtgtEH5E1pahZu9uzKRy" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2730e9130f4f2d5bf5ee9de8936" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">eight(Prod.&Feat. SUGA of BTS)</b>
-            <p style="font-size:18px;margin:5px">IU, SUGA</p>
+            <b style="font-size:20px;margin:5px">Into the I-LAND</b>
+            <p style="font-size:18px;margin:5px">IU</p>
         </td>
     </tr>
 </table>
