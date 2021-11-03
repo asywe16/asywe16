@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/2TfsNTyC4uuamXBZJnU0ga" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b27335120749846df61d38ca1ee5" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/7ABzpjFxlhc53f14QorJUL" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2734422aac0b636fc07c0f860c8" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Nerdy Love</b>
-            <p style="font-size:18px;margin:5px">pH-1, Yerin Baek</p>
+            <b style="font-size:20px;margin:5px">Colour Vision</b>
+            <p style="font-size:18px;margin:5px">MAX</p>
         </td>
     </tr>
 </table>
