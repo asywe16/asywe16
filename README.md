@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/4KBegMBVyHsfC7fPOztTzV" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2734df4e8ec1f66ebb6b63c14c2" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/0cdvq8N4j4FdC6TS0pfrl6" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2738e1f1c51bbed423ce4ff07c8" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">情非得已</b>
-            <p style="font-size:18px;margin:5px">Harlem Yu</p>
+            <b style="font-size:20px;margin:5px">[Wei Wuxian] Qu Jin Chen Qing</b>
+            <p style="font-size:18px;margin:5px">Xiao Zhan</p>
         </td>
     </tr>
 </table>
