@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/4UiogCfzKQW98U1GTCivsn" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b27353f6fa0d2589c6a7174f4b81" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/4pWawf1Rq4qHDv4Ktqjg2D" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273ad3b5398f9086d7f6e19331b" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Normal People (feat. rei brown)</b>
-            <p style="font-size:18px;margin:5px">Joji, rei brown</p>
+            <b style="font-size:20px;margin:5px">Beautiful Creatures (feat. MAX)</b>
+            <p style="font-size:18px;margin:5px">ILLENIUM, MAX</p>
         </td>
     </tr>
 </table>
