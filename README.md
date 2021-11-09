@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/78qFR4ah1s7wY3f6qdcnDL" target="_blank" style="padding:15px;pointer-events:auto">
+            <a href="https://open.spotify.com/track/7xxn5U1rO2yaNl5fdFvsvg" target="_blank" style="padding:15px;pointer-events:auto">
                 <img src="https://i.scdn.co/image/ab67616d0000b2734422aac0b636fc07c0f860c8" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Love Me Less (feat. Quinn XCII)</b>
-            <p style="font-size:18px;margin:5px">MAX, Quinn XCII</p>
+            <b style="font-size:20px;margin:5px">New Life</b>
+            <p style="font-size:18px;margin:5px">MAX</p>
         </td>
     </tr>
 </table>
