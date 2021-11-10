@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/6rwBFh4K4QNrKj9rcE1SiJ" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2734422aac0b636fc07c0f860c8" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/7eQHxigpuDJjCG50JyzU8v" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2731b7c878bdc17d023295df222" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">SOS</b>
-            <p style="font-size:18px;margin:5px">MAX</p>
+            <b style="font-size:20px;margin:5px">Butterflies</b>
+            <p style="font-size:18px;margin:5px">MAX, Ali Gatie</p>
         </td>
     </tr>
 </table>
