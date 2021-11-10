@@ -5,12 +5,12 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/7xxn5U1rO2yaNl5fdFvsvg" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2734422aac0b636fc07c0f860c8" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/79Oh23DRF3Zg8PpzdULFrK" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b27320107c53cd858fb4f4a75f20" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">New Life</b>
+            <b style="font-size:20px;margin:5px">Darling</b>
             <p style="font-size:18px;margin:5px">MAX</p>
         </td>
     </tr>
