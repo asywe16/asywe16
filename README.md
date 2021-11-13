@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/7z2M7DsEjZjwXBkWG3zd21" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273c5f555a33c991687a2e4c4e6" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/1XWHUMBimQATJmn5bg4T7P" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2734799b66ef61a1ea7ed285429" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">我懷念的</b>
-            <p style="font-size:18px;margin:5px">Stefanie Sun</p>
+            <b style="font-size:20px;margin:5px">Caffeine (Feat. Jun Hyung Yong Of BEAST)</b>
+            <p style="font-size:18px;margin:5px">Yang Yoseob, Jun Hyung Yong Of BEAST</p>
         </td>
     </tr>
 </table>
