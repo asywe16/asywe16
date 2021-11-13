@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/5geqxGTn2dFte1KywqcXYq" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273b4bf5aa282f90b0f92e5d85a" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/7z2M7DsEjZjwXBkWG3zd21" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273c5f555a33c991687a2e4c4e6" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">愛情轉移(國)</b>
-            <p style="font-size:18px;margin:5px">Eason Chan</p>
+            <b style="font-size:20px;margin:5px">我懷念的</b>
+            <p style="font-size:18px;margin:5px">Stefanie Sun</p>
         </td>
     </tr>
 </table>
