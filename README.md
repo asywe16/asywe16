@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/1LmN9SSHISbtp9LoaR5ZVJ" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2733119f490f02fcee6514e8604" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/65Ue0jbK1lhMuWc9XfVanh" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273700ed221054220bb30eb2d96" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Payphone</b>
-            <p style="font-size:18px;margin:5px">Maroon 5, Wiz Khalifa</p>
+            <b style="font-size:20px;margin:5px">Crazy Times</b>
+            <p style="font-size:18px;margin:5px">ILLENIUM, Said The Sky, Rock Mafia</p>
         </td>
     </tr>
 </table>
