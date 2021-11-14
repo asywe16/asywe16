@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/3uzEjH0ldAQKCgJ7Sc9oTP" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2738cb5cb7f800217674a0755ca" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/1Dgepi6GzDjCvcnd2p1OAy" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2739756c6519e249c1c7c060e60" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">飢餓時代</b>
-            <p style="font-size:18px;margin:5px">YELLOW黃宣</p>
+            <b style="font-size:20px;margin:5px">Just Me And You</b>
+            <p style="font-size:18px;margin:5px">TAEMIN</p>
         </td>
     </tr>
 </table>
