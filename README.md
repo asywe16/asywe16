@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/6nk0dOQnEJjGay7bb19Xp1" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273dcc556c136aec6f0d206d0f2" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">2 U (feat. Anthony Pavel)</b>
-            <p style="font-size:18px;margin:5px">Pink Slip, Anthony Pavel</p>
+            <b style="font-size:20px;margin:5px">Mercy</b>
+            <p style="font-size:18px;margin:5px">Shawn Mendes</p>
         </td>
     </tr>
 </table>
