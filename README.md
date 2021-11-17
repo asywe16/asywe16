@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/4cJ8B6asctOR6xzvNkijxI" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b27319c2bfe53d8093d1d8e2cf18" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Letter To Heaven (feat. NONE)</b>
-            <p style="font-size:18px;margin:5px">BUMKEY, NONE</p>
+            <b style="font-size:20px;margin:5px">Dance, Dance</b>
+            <p style="font-size:18px;margin:5px">Fall Out Boy</p>
         </td>
     </tr>
 </table>
