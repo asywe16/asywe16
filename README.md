@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/2jv2Em33WMMw6Jl1L1RNJJ" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2734cf1b2f98c24018d8349b7eb" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/6bwix40G1wJk1ECwyJrMqR" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b27381194978e5ebc729c25a1c6f" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Spoiler</b>
-            <p style="font-size:18px;margin:5px">SHINee</p>
+            <b style="font-size:20px;margin:5px">우주가 있어 Orbit</b>
+            <p style="font-size:18px;margin:5px">JONGHYUN</p>
         </td>
     </tr>
 </table>
