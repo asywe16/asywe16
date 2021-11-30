@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/6oHUMXEKpnXOrs13VoGsuF" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273d0fd82a6a2660806a490f78f" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/7BkP2EuHFFTYg1mlndihpn" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b27332c1cbd06faf825f0346ca75" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Trap</b>
-            <p style="font-size:18px;margin:5px">Henry, KYUHYUN, TAEMIN</p>
+            <b style="font-size:20px;margin:5px">Intro : What am I to you</b>
+            <p style="font-size:18px;margin:5px">BTS</p>
         </td>
     </tr>
 </table>
