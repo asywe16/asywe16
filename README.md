@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273365b3fb800c19f7ff72602da" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/2YbsyXJGfZRnnl93Rk4JzW" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273d887e220a9c199fd7ed7d530" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Yeah! (feat. Lil Jon & Ludacris)</b>
-            <p style="font-size:18px;margin:5px">Usher, Lil Jon, Ludacris</p>
+            <b style="font-size:20px;margin:5px">Tragedy - Indiginis Remix</b>
+            <p style="font-size:18px;margin:5px">DIGY, Indiginis</p>
         </td>
     </tr>
 </table>
