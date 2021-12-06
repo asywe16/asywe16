@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/4DvhkX2ic4zWkQeWMwQ2qf" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b27358b08d62231dfca8d358b876" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/3m9TovH9Eh2lnxbW6pnN5t" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273ab2d32e4ce9c1da688ef2c9d" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Like A G6</b>
-            <p style="font-size:18px;margin:5px">Far East Movement, The Cataracs, DEV</p>
+            <b style="font-size:20px;margin:5px">Dirty</b>
+            <p style="font-size:18px;margin:5px">GSoul</p>
         </td>
     </tr>
 </table>
