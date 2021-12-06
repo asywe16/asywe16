@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/6NV8bM1StHDcWMoTVWix1J" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273757e088dab358d2d5fc564e1" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/0gRQX71bB2AFvZSw8MyS40" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2731b2bc958201815208f147740" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">She Was Mine (feat. Jesse Barrera)</b>
-            <p style="font-size:18px;margin:5px">AJ Rafael, Jesse Barrera</p>
+            <b style="font-size:20px;margin:5px">Confidence</b>
+            <p style="font-size:18px;margin:5px">GSoul</p>
         </td>
     </tr>
 </table>
