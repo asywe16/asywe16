@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/1gnwGVoG7V08vMX3hyr90x" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2738c309d5c3c4ad7b606ebece6" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/2q4rjDy9WhaN3o9MvDbO21" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2736aef62bd0a60aac7df9a9e37" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Tints (feat. Kendrick Lamar)</b>
-            <p style="font-size:18px;margin:5px">Anderson .Paak, Kendrick Lamar</p>
+            <b style="font-size:20px;margin:5px">Kiss Me Thru The Phone</b>
+            <p style="font-size:18px;margin:5px">Soulja Boy, Sammie</p>
         </td>
     </tr>
 </table>
