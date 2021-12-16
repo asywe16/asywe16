@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/7pBHBt0dGnCeSvZ0KfqBep" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b27304a11e823e27cc5413ff66c8" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/7MW3CnwokFGyWUkldSLjIZ" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273ea544bb612b77cf995855435" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">DOOR</b>
-            <p style="font-size:18px;margin:5px">millic, Jang Pill Soon</p>
+            <b style="font-size:20px;margin:5px">Someone New</b>
+            <p style="font-size:18px;margin:5px">BANKS</p>
         </td>
     </tr>
 </table>
