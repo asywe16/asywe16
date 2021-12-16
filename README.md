@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/4TTV7EcfroSLWzXRY6gLv6" target="_blank" style="padding:15px;pointer-events:auto">
+            <a href="https://open.spotify.com/track/6OG1S805gIrH5nAQbEOPY3" target="_blank" style="padding:15px;pointer-events:auto">
                 <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Alexander Hamilton</b>
-            <p style="font-size:18px;margin:5px">Leslie Odom Jr., Anthony Ramos, Daveed Diggs, Okieriete Onaodowan, Lin-Manuel Miranda, Phillipa Soo, Original Broadway Cast of Hamilton</p>
+            <b style="font-size:20px;margin:5px">You'll Be Back</b>
+            <p style="font-size:18px;margin:5px">Jonathan Groff, Original Broadway Cast of Hamilton</p>
         </td>
     </tr>
 </table>
