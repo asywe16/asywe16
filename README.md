@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/1gziv7CCkgir8JeKRx3M3Y" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2739d857b7ade0f9bb309ea56ff" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/0yiigrFvNj02eIlqM8ZGXf" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b27398b89e5e09bc368ab0013024" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">RSVP Remix</b>
-            <p style="font-size:18px;margin:5px">Sik-K, BIG Naughty, TRADE L, Woodie Gochild</p>
+            <b style="font-size:20px;margin:5px">The Manual</b>
+            <p style="font-size:18px;margin:5px">Eddy Kim</p>
         </td>
     </tr>
 </table>
