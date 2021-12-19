@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/0CZojXtKzOgVz07fN6BKRV" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273d535b0446a73235d28432d38" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/60LTEqwQF7J0mO093FPRdc" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2735ccb5184bed8ae32af48f411" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Lost Her</b>
-            <p style="font-size:18px;margin:5px">K.Will</p>
+            <b style="font-size:20px;margin:5px">Does She Know</b>
+            <p style="font-size:18px;margin:5px">Kiana V, Curtismith</p>
         </td>
     </tr>
 </table>
