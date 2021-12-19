@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/64QftS2rGzpynevjuCsJXW" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b27303176f2f55cb2acf86c785a1" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/54ctkbzGS1z6QcuYcRgw8u" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273b472684c702d88c3c26ffe56" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Moves Like Jagger</b>
-            <p style="font-size:18px;margin:5px">Maroon 5, Christina Aguilera</p>
+            <b style="font-size:20px;margin:5px">思念人之屋</b>
+            <p style="font-size:18px;margin:5px">Bobby Chen</p>
         </td>
     </tr>
 </table>
