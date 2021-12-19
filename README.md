@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/0Aa3g9EQoPNt6PiKjaUeb7" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273b5d9c8de465654c20d77305c" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/5hcO4JPFMFgQ5edWGhhhaG" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2734791345c4bc6f6866653be3d" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Every Kind Of Way</b>
-            <p style="font-size:18px;margin:5px">H.E.R.</p>
+            <b style="font-size:20px;margin:5px">괴도 (Danger)</b>
+            <p style="font-size:18px;margin:5px">TAEMIN</p>
         </td>
     </tr>
 </table>
