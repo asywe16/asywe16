@@ -5,12 +5,12 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/1LVcvnaOU0ge0AdWocLi8l" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273c07c77b58e0ab3a72247e99a" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/0KUOmMjxT31cRoWXk5VTqb" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2738cb5cb7f800217674a0755ca" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">道</b>
+            <b style="font-size:20px;margin:5px">ROSE WAYNE</b>
             <p style="font-size:18px;margin:5px">YELLOW黃宣</p>
         </td>
     </tr>
