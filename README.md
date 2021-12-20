@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/3TiKOF7s8L9P7hf72EDgmM" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273c07c77b58e0ab3a72247e99a" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/7nJc2Oxfn7xRX3eF4hltyl" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Beanstalk</b>
-            <p style="font-size:18px;margin:5px">YELLOW黃宣</p>
+            <b style="font-size:20px;margin:5px">Red Lipstick (feat. Yoonmirae)</b>
+            <p style="font-size:18px;margin:5px">LeeHi, Yoon Mirae</p>
         </td>
     </tr>
 </table>
