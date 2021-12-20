@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/0tyR7Bu9P086aWBFZ4QJoo" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b27328c24b54e9149cab239ac1cd" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/0k8tcDGLSqUQAeuoOaUJj2" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273d8f40ad88ed77a939b716d19" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Monsters (feat. blackbear)</b>
-            <p style="font-size:18px;margin:5px">All Time Low, blackbear</p>
+            <b style="font-size:20px;margin:5px">Memories</b>
+            <p style="font-size:18px;margin:5px">Panic! At The Disco</p>
         </td>
     </tr>
 </table>
