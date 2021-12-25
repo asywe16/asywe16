@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/4X8jImpljCdt2eDge8OzoQ" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273eaf4b0de16e2a2bc9b796302" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/38YDsMGyaKxuoMtLAhHwYk" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273c0a4a1e7ae0a1d9b62b5e27e" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Paper Hearts</b>
-            <p style="font-size:18px;margin:5px">Tori Kelly</p>
+            <b style="font-size:20px;margin:5px">上海バンド</b>
+            <p style="font-size:18px;margin:5px">Daichi Yamamoto</p>
         </td>
     </tr>
 </table>
