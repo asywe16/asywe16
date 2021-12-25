@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/5b2bu6yyATC1zMXDGScJ2d" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b27322f21ef4e9da48c31170a418" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/47UUNYT0lsDnX9EYHIBf3L" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273b897243a0505c6efc3b62b44" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)</b>
-            <p style="font-size:18px;margin:5px">David Guetta, Afrojack, Bebe Rexha, Nicki Minaj</p>
+            <b style="font-size:20px;margin:5px">Right Here Right Now</b>
+            <p style="font-size:18px;margin:5px">DPR LIVE, Jay Park, Loco</p>
         </td>
     </tr>
 </table>
