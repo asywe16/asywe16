@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2739642e82608c68ebc941755de" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/1IecjpoB4D0fT01g9qiJvU" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2734b5186cf9433dcc16b11db5c" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Potential Breakup Song</b>
-            <p style="font-size:18px;margin:5px">Aly & AJ</p>
+            <b style="font-size:20px;margin:5px">Ma City</b>
+            <p style="font-size:18px;margin:5px">BTS</p>
         </td>
     </tr>
 </table>
