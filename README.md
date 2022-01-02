@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/2RRFW5Rtv0ZOYHkGNXEtPO" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b27386469b3529e7846204526f30" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/5k3VjTwIsOjQ2woGz3Yx71" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2733811c65339c8013bca6c4e4f" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Swimming Pool (remastered)</b>
-            <p style="font-size:18px;margin:5px">Taylor</p>
+            <b style="font-size:20px;margin:5px">Can't Help but Wait</b>
+            <p style="font-size:18px;margin:5px">Trey Songz</p>
         </td>
     </tr>
 </table>
