@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/2wSQyp6VzUopSFBinRo1iD" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b27343515daa8b28e0978efe9543" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/27lq49cT4kZPmP1yEmBdbh" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b27305d42fb7ca9e9521ed8f89df" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Distraction</b>
-            <p style="font-size:18px;margin:5px">Kehlani</p>
+            <b style="font-size:20px;margin:5px">Nighty Night 잘자 (Feat. Zion.T)</b>
+            <p style="font-size:18px;margin:5px">Crush, Zion.T</p>
         </td>
     </tr>
 </table>
