@@ -5,12 +5,12 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/5MUexKUkwBxDPCQbbqmF9q" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273bd375b430c3abeceb8b5d8da" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/0pGHou9D7JTMKbMfOLKy50" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b27323eee40f72c419fab0630bcf" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Lie</b>
+            <b style="font-size:20px;margin:5px">쩔어 DOPE</b>
             <p style="font-size:18px;margin:5px">BTS</p>
         </td>
     </tr>
