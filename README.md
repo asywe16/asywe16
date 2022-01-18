@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr" target="_blank" style="padding:15px;pointer-events:auto">
+            <a href="https://open.spotify.com/track/1BSZGNpIm2nBt1hWSK2bRp" target="_blank" style="padding:15px;pointer-events:auto">
                 <img src="https://i.scdn.co/image/ab67616d0000b2733d5b8fe604275dfab677bd0d" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Make It Better (feat. Smokey Robinson)</b>
-            <p style="font-size:18px;margin:5px">Anderson .Paak, Smokey Robinson</p>
+            <b style="font-size:20px;margin:5px">Good Heels (feat. Jazmine Sullivan)</b>
+            <p style="font-size:18px;margin:5px">Anderson .Paak, Jazmine Sullivan</p>
         </td>
     </tr>
 </table>
