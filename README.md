@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/4UJbMQumRGohBYYz9WpQcT" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273f90892cf8653b4fc000de692" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/2NNw0Dl975iHHkAkaYGUMe" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/dfbbca53386e61352d7b976d76bc914e8ce5f1b2" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Shangri-La</b>
-            <p style="font-size:18px;margin:5px">VIXX</p>
+            <b style="font-size:20px;margin:5px">할렐루야 (Hallelujah)</b>
+            <p style="font-size:18px;margin:5px">JONGHYUN</p>
         </td>
     </tr>
 </table>
