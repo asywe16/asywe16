@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/1j3H54xdahpAkNI0q6S89q" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273e5998eca652c3d485c3980e8" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273365b3fb800c19f7ff72602da" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">With You</b>
-            <p style="font-size:18px;margin:5px">Chris Brown</p>
+            <b style="font-size:20px;margin:5px">Yeah! (feat. Lil Jon & Ludacris)</b>
+            <p style="font-size:18px;margin:5px">Usher, Lil Jon, Ludacris</p>
         </td>
     </tr>
 </table>
