@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/2ftAhOIBhouYh3fevdzXKR" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b27381194978e5ebc729c25a1c6f" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/1yIMrzF45Ven2FzPFAr0Gg" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2738acce00561408624b101ba40" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">좋아 She is</b>
-            <p style="font-size:18px;margin:5px">JONGHYUN</p>
+            <b style="font-size:20px;margin:5px">Mr. Doctor Man</b>
+            <p style="font-size:18px;margin:5px">Palaye Royale</p>
         </td>
     </tr>
 </table>
