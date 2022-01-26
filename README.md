@@ -5,12 +5,12 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq" target="_blank" style="padding:15px;pointer-events:auto">
+            <a href="https://open.spotify.com/track/5PUawWFG1oIS2NwEcyHaCr" target="_blank" style="padding:15px;pointer-events:auto">
                 <img src="https://i.scdn.co/image/ab67616d0000b2733cf1c1dbcfa3f1ab7282719b" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Centuries</b>
+            <b style="font-size:20px;margin:5px">Uma Thurman</b>
             <p style="font-size:18px;margin:5px">Fall Out Boy</p>
         </td>
     </tr>
