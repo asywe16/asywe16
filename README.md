@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/1C51DDQB6hYanTDa2dzCPb" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b27381194978e5ebc729c25a1c6f" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/07KITXvqvzf4h2RaqsWNU0" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b27348beca18e0eb2fa56c937e08" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Suit Up</b>
-            <p style="font-size:18px;margin:5px">JONGHYUN</p>
+            <b style="font-size:20px;margin:5px">Dirty Mind (featuring Ty Dolla $ign)</b>
+            <p style="font-size:18px;margin:5px">Stanaj, Ty Dolla $ign</p>
         </td>
     </tr>
 </table>
