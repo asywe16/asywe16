@@ -5,12 +5,12 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/54ctkbzGS1z6QcuYcRgw8u" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273b472684c702d88c3c26ffe56" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/3jktdFh4kWH69lNWmqeUGQ" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b27315ee8da5aae54a86ec7d01ed" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">思念人之屋</b>
+            <b style="font-size:20px;margin:5px">恨情歌</b>
             <p style="font-size:18px;margin:5px">Bobby Chen</p>
         </td>
     </tr>
