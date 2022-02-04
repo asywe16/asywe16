@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/6pf9datdAtxQj4EU8UYHSx" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2733721c00c751f3596b38ffdad" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/1n3TbqMfvALAI0BjtiF6Lt" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273fea83ce5f97fef7a71cbf5f3" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Levels</b>
-            <p style="font-size:18px;margin:5px">Nick Jonas</p>
+            <b style="font-size:20px;margin:5px">他一定很愛你</b>
+            <p style="font-size:18px;margin:5px">A-do</p>
         </td>
     </tr>
 </table>
