@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/5ZDqduedfazFVUhLAmlbBe" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273bde4f0bab3a774a3351b8b40" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/3ar8egO3eEowO02iMx1Ktu" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273c80976a47f8ab0a0de13b90e" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Nothing Else</b>
-            <p style="font-size:18px;margin:5px">Mac Ayres</p>
+            <b style="font-size:20px;margin:5px">買榜</b>
+            <p style="font-size:18px;margin:5px">Kumachan, Julia Wu</p>
         </td>
     </tr>
 </table>
