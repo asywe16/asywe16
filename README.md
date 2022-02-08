@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/0mTjDtEuQGXUSuUGlsqz5P" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b273284c16a6ddb405995c23badc" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/36pLU2ywVeBKEF0rrKtmCB" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b27384c36b88540d1c658a02dfc9" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Perfume (Feat. Nucksal)</b>
-            <p style="font-size:18px;margin:5px">CODE KUNST, Nucksal</p>
+            <b style="font-size:20px;margin:5px">La La La</b>
+            <p style="font-size:18px;margin:5px">Naughty Boy, Sam Smith</p>
         </td>
     </tr>
 </table>
