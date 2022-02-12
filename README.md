@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/2mHOUqoE9d1Iwj5zQWQ1K2" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b27305d42fb7ca9e9521ed8f89df" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/5jzg774Qb6yM7Khqe5euvc" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273822795f41a8b195faae60102" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Tiki-Taka 티격태격 (Feat. DPR LIVE)</b>
-            <p style="font-size:18px;margin:5px">Crush, DPR LIVE</p>
+            <b style="font-size:20px;margin:5px">怪天氣</b>
+            <p style="font-size:18px;margin:5px">YELLOW黃宣, 9m88</p>
         </td>
     </tr>
 </table>
