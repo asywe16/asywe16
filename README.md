@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/68W9Rt5yAcalwteykLJ82a" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b27399fb6a459b9140ae8d045d53" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/6r37RiG0ulJMCcr6PYrmg0" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b27304a11e823e27cc5413ff66c8" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">LATELY (Feat. Hoody)</b>
-            <p style="font-size:18px;margin:5px">pH-1, Hoody</p>
+            <b style="font-size:20px;margin:5px">CAN’T WAIT</b>
+            <p style="font-size:18px;margin:5px">millic, ((( O )))</p>
         </td>
     </tr>
 </table>
