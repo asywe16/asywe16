@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/5VGsuMYXAAaWGcFZeuuP81" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b27391ad304ca49ac99331e935af" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/70EzzdKkfORRFG1P5A2A0D" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b27305719dce35b508bf74c366f3" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">低電量</b>
-            <p style="font-size:18px;margin:5px">TroutFresh</p>
+            <b style="font-size:20px;margin:5px">Roommate</b>
+            <p style="font-size:18px;margin:5px">ZICO</p>
         </td>
     </tr>
 </table>
