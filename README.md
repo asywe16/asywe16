@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/3Ss6FCrnIZdQHWA09hy236" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b27305d42fb7ca9e9521ed8f89df" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/5dC79m39ThfNFIHfaUx0Ge" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b273b7480502648483d05f3466d3" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Wake Up (Feat. DEAN)</b>
-            <p style="font-size:18px;margin:5px">Crush, DEAN</p>
+            <b style="font-size:20px;margin:5px">What 2 Do</b>
+            <p style="font-size:18px;margin:5px">DEAN, Crush, Jeff Bernat</p>
         </td>
     </tr>
 </table>
