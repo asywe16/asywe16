@@ -5,13 +5,13 @@ In need of music suggestions? Check out what I'm currently listening to!
 <table style="border-spacing:15px;border:0px">
     <tr>
         <td style="border:none">
-            <a href="https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc" target="_blank" style="padding:15px;pointer-events:auto">
-                <img src="https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616" alt="Song image" width="100px" height="100px">
+            <a href="https://open.spotify.com/track/15EPc80XuFrb2LmOzGjuRg" target="_blank" style="padding:15px;pointer-events:auto">
+                <img src="https://i.scdn.co/image/ab67616d0000b2737bcd3cd54e8399ae38cc6e64" alt="Song image" width="100px" height="100px">
             </a>
         </td>
         <td style="border:none">
-            <b style="font-size:20px;margin:5px">Babydoll</b>
-            <p style="font-size:18px;margin:5px">Dominic Fike</p>
+            <b style="font-size:20px;margin:5px">Crew (feat. Brent Faiyaz & Shy Glizzy)</b>
+            <p style="font-size:18px;margin:5px">GoldLink, Brent Faiyaz, Shy Glizzy</p>
         </td>
     </tr>
 </table>
